@@ -3,8 +3,12 @@ Using Laravel, build a basic dashboard to show the current bitcoin price in USD.
 
 As a member of the site, when I log in I should be given the option to change the currency to EUR and AUD. I would also like to see the percent change since I last logged in.
 
-In the future we plan on adding support for Ethereum so we want to be flexible with how the dashboard is built to allow new features.  
 
+## Instructions
+Fork this repo and complete the requested features above. When complete, create a Pull Request to be reviewed.
+
+
+## Resources
 - [Laravel](https://laravel.com/)
 - [Bitcoin API](https://coinmarketcap.com/api/)
 - [Free Dashboard UI](https://wrappixel.com/templates/pixel-admin-lite/)
