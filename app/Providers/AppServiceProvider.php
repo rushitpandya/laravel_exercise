@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace BitCoin\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
